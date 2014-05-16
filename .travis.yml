@@ -1,0 +1,2 @@
+language: objective-c
+script: xctool -workspace 123.xcworkspace -scheme 123 test
